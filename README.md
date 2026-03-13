@@ -32,8 +32,7 @@ Day-19/
 ---
 
 ## 📸 Preview
-
-(Add screenshot of your website here)
+<img width="1908" height="936" alt="image" src="C:\Users\Admin\OneDrive\Desktop\Screenshot 2026-03-13 101829.png"/>
 
 ---
 
