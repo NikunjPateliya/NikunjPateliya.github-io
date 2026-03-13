@@ -31,11 +31,6 @@ Day-19/
 
 ---
 
-## 📸 Preview
-<img width="1908" height="936" alt="image" src="C:\Users\Admin\OneDrive\Desktop\Screenshot 2026-03-13 101829.png"/>
-
----
-
 ## 🌐 How to Run
 
 1. Download or clone the repository
